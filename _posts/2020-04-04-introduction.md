@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Justine Chia 
+title: Tim Chen
 ---
 
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
+Tim obtained a Batchelor in Electrical Engineering from the University of Calgary and a Master of Business Administration from the University of Michigan, and is currently pursuing his Master of Information and Data Science (MIDS) degree at UC Berkeley. 
 
 -----
-
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
-
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
+Tim was previously a Product Manager at Microsoft responsible for display advertising monetization across platforms. Before Microsoft, Tim was a software engineer lead experienced in leading e-commerce development for clients including Nike and EA Games in an interactive media agency.

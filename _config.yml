@@ -42,8 +42,6 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
 
-  - title: About
-    url: /about
+  - title: Back to Site
+    url: https://mayraaleli85.github.io

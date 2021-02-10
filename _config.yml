@@ -43,5 +43,5 @@ version: 3.0.0
 # Navbar page list
 nav:
 
-  - title: Back to Site
+  - title: BacktoSite
     url: https://mayraaleli85.github.io
